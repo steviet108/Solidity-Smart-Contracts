@@ -23,7 +23,7 @@ This smart contract was written in Solidity and I used the Remix IDE. There are 
 
 ## Usage
 
-This smart contract is written in Solidity and I used the Remix IDE to compile and test functionalities. If the user want to interact with the smart contract it is possible to clone this repository into a local folder and launch the remix IDE here: [remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js) and then select Solidity as the Environment. Then you can upload the ``` joint_savings.sol ``` file. It will be necessary to compile and deploy before interacting with the smart contract. 
+This smart contract is written in Solidity and I used the Remix IDE to compile and test functionalities. If the user want to interact with the smart contract it is possible to clone this repository into a local folder and launch the remix IDE here: [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js) and then select Solidity as the Environment. Then you can upload the ``` joint_savings.sol ``` file. It will be necessary to compile and deploy before interacting with the smart contract. 
 
 
 ## Contributors
