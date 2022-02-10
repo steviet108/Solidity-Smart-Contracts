@@ -44,3 +44,27 @@ MIT
 # Preview of Smart Contract Funtionality
 ---
 
+## Deposit Funcionality / 1 ETH in Wei
+
+![1_eth](Execution_Results/1_ethInWei_deposit.png)
+
+## Deposit Functionality / 10 ETH in Wei
+
+![10_eth](Execution_results/10_ethInWei_deposit.png)
+
+## Deposit Functionality / 5 ETH 
+
+![5_eth](Execution_Results/5_eth_deposit.png)
+
+## Withdrawal Functionality / 5 ETH withdrawal to Account 1
+
+![5_eth](Execution_Results/5_eth_withdrawal_acct1.png)
+
+## Withdrawal Functionality / 10 ETH withdrawal to Account 2
+
+![10_eth](Exectution_Results/10_eth_withdrawal_acct2.png)
+
+## Set Accounts Functionality
+
+![setAccounts](Execution_Results/setAccounts_function.png)
+
