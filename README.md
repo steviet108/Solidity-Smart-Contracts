@@ -51,7 +51,7 @@ MIT
 
 ## Deposit Functionality / 10 ETH in Wei
 
-![10_eth](Execution_results/10_ethInWei_deposit.png)
+![10_eth](Execution_Results/10_ethInWei_deposit.png)
 - Here you can see the JointSavings contract and its deposit funtion has allowed a 10 eth in wei deposit to the contract. Note the transaction details show the value as 10 eth in wei. Also note the ``` contractBalance ``` has increased from 1 eth in wei to 11 eth in wei.
 
 ## Deposit Functionality / 5 ETH 
