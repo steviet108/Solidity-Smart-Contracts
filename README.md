@@ -47,22 +47,25 @@ MIT
 ## Deposit Funcionality / 1 ETH in Wei
 
 ![1_eth](Execution_Results/1_ethInWei_deposit.png)
+- Here you can see JointSavings contract and its deposit function has allowed a 1 eth in wei deposit to the contract. Note the ``` contractBalance ``` shows 1 eth in wei. Also note the transaction details show 1 eth in wei as the value of the transaction. 
 
 ## Deposit Functionality / 10 ETH in Wei
 
 ![10_eth](Execution_results/10_ethInWei_deposit.png)
+- Here you can see the JointSavings contract and its deposit funtion has allowed a 10 eth in wei deposit to the contract. Note the transaction details show the value as 10 eth in wei. Also note the ``` contractBalance ``` has increased from 1 eth in wei to 11 eth in wei.
 
 ## Deposit Functionality / 5 ETH 
 
 ![5_eth](Execution_Results/5_eth_deposit.png)
+- Here you can see the JointSavings contract and its deposit funtion has allowed a 5 eth deposit to the contract. Note the transaction details show the value as 5 eth in wei. Also note the ``` contractBalance ``` has increased from 11 eth in wei to 16 eth in wei.
 
 ## Withdrawal Functionality / 5 ETH withdrawal to Account 1
 
 ![5_eth](Execution_Results/5_eth_withdrawal_acct1.png)
-
+- Here you can see JointSavings contract 
 ## Withdrawal Functionality / 10 ETH withdrawal to Account 2
 
-![10_eth](Exectution_Results/10_eth_withdrawal_acct2.png)
+![10_eth](Execution_Results/10_eth_withdrawal_acct2.png)
 
 ## Set Accounts Functionality
 
