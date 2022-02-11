@@ -62,12 +62,14 @@ MIT
 ## Withdrawal Functionality / 5 ETH withdrawal to Account 1
 
 ![5_eth](Execution_Results/5_eth_withdrawal_acct1.png)
-- Here you can see JointSavings contract 
+- Here you can see JointSavings contract and its withdrawal funtion has allowed a 5 eth withdrawal from the contract address to Account 1. Note the ``` contractBalance ``` has adjusted from 16 eth in wei to 11 eth in wei. Also note that the ``` lastToWithdraw ``` shows Account1 ``` ox5B38...ddC4 ``` as the last to withdraw.
+
 ## Withdrawal Functionality / 10 ETH withdrawal to Account 2
 
 ![10_eth](Execution_Results/10_eth_withdrawal_acct2.png)
-
+- Here you can see JointSavings contract and its withdrawal funtion has allowed a 10 eth withdrawal from the contract address to Account 2. Note the ``` contractBalance ``` has adjusted from 11 eth in wei to 1 eth in wei. Also note that the ``` lastToWithdraw ``` shows Account1 ``` oxAb84...5cb2 ``` as the last to withdraw.
+- 
 ## Set Accounts Functionality
 
 ![setAccounts](Execution_Results/setAccounts_function.png)
-
+- Here you can see the ``` setAccounts ``` function with its inputs. Note Account 1 as ``` ox5B38...ddC4 ``` & Account 2 as ``` oxAb84...5cb2 ```. This funtion allows for the user to input any two valid address's making the smart contract ``` JointSavings ``` and the functions included customizable for any two individuals or entity's.
