@@ -28,7 +28,7 @@ This smart contract is written in Solidity and I used the Remix IDE to compile a
 
 ## Contributors
 
-Stephen Thomas @ stephenthomas43@gmail.com
+stephenthomas43@gmail.com
 
 [Trilogy Education Services](https://www.trilogyed.com/)
 
