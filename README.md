@@ -69,7 +69,7 @@ MIT
 
 ![10_eth](Execution_Results/10_eth_withdrawal_acct2.png)
 - Here you can see JointSavings contract and its withdrawal funtion has allowed a 10 eth withdrawal from the contract address to Account 2. Note the ``` contractBalance ``` has adjusted from 11 eth in wei to 1 eth in wei. Also note that the ``` lastToWithdraw ``` shows Account1 ``` oxAb84...5cb2 ``` as the last to withdraw.
-- 
+
 ## Set Accounts Functionality
 
 ![setAccounts](Execution_Results/setAccounts_function.png)
