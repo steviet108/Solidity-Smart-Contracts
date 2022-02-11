@@ -3,18 +3,19 @@
 ![eth_image](Resources/eth_image.png)
 
 
-Solidity Smart Cortracts that allow joint user's the ability to deposit into a saving's account and withdraw, Trustlessly. This Smart Contract called JointSavings could be deployed onto the Ethereum Blockchain and it would be Immutable. Some functionality in the JointSavings smart contract includes :
+Solidity Smart Cortract that allow joint user's the ability to deposit into a saving's account and withdraw, Trustlessly. This Smart Contract called ``` JointSavings ``` could be deployed onto the Ethereum Blockchain and it would be Immutable. Some functionality in the JointSavings smart contract includes :
 
-- Deposit
+- Deposit Ether
 
-- Withdraw
+- Withdraw Ether
 
 - Check account balance
 
-- Check who was the last to withdraw
+- Check what address was the last to withdraw
 
 - What was the last withdraw amount
 
+- Customize the joint savings address's 
 
 ## Technologies & Installation
 
